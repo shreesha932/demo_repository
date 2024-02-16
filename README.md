@@ -1,4 +1,4 @@
 # demo_repository
 My first github repository.
 Author - Shreesha S
-<strong> Purpose - Learning basics of github </strong>
+<strong> Purpose - Learning basics of GITHUB </strong>
